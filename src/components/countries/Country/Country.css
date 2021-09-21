@@ -1,0 +1,11 @@
+.country{
+    background-color: darkcyan;
+    border: 2px solid chocolate;
+    border-radius: 5px;
+    margin: 20px;
+    
+    color: white;
+}
+.country img{
+    width:200px;
+}
